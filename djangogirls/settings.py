@@ -25,7 +25,7 @@ SECRET_KEY = '+-5y#utmgh07=he!rn5#1g)rvo17268xj6w*18s+j=a6bgdwu8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['http://mustango.pythonanywhere.com']
 
 
 # Application definition
